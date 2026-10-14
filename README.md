@@ -18,6 +18,10 @@ I've spent my career investigating suspicious activity, first in banking (AML an
 - Certified Anti-Money Laundering Specialist (CAMS)
 - CompTIA CySA+ (exam October 2026)
 
+## Education
+
+- **Western Governors University**, B.S. Cybersecurity (in progress)
+
 ## Skills
 
 - **SIEM and detection:** Splunk (SPL), Sysmon, Sigma rules, MITRE ATT&CK, alert tuning
