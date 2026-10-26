@@ -17,7 +17,7 @@ I've spent my career investigating suspicious activity, first in banking (AML an
 
 - CompTIA Security+
 - Certified Anti-Money Laundering Specialist (CAMS)
-- CompTIA CySA+ (exam October 2026)
+- CompTIA CySA+ (exam November 2026)
 
 ## Education
 
